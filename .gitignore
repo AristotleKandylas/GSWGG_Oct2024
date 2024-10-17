@@ -163,4 +163,4 @@ cython_debug/
 
 dummy_details_test_2323.csv
 Data/*
-*.csv
+details_test.csv
